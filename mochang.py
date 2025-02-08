@@ -16,7 +16,7 @@ from embedding import get_embeddings,get_glove_embedding
 from torch.utils.data import DataLoader
 
 from model import Mochangmodel
-from train_util import train_mochang,train_pred_mochang
+from train_util import train_pred_mochang
 from validate_util import validate_share,validate_share_mochang, validate_dev_sentence, validate_annotation_sentence, validate_rationales
 from tensorboardX import SummaryWriter
 
