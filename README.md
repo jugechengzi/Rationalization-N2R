@@ -1,3 +1,9 @@
+ICLR 2025 paper [Breaking Free from MMI: A New Frontier in Rationalization by Probing Input Utilization](https://openreview.net/forum?id=WZ0s2smcKP).
+
+If you have any problems in running the code, please contact me.
+
+This repo is licensed under the MIT license. If you want to implement your own method based on our code, please mention it in your paper, thanks.
+
 ## Environments
 torch 1.13.1+cu11.6.  
 python 3.7.16.   
